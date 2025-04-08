@@ -23,7 +23,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 5. Open a pull request
 
 ## 💖 Like my work?
-Buy me a coffee: https://www.buymeacoffee.com/williamspe8
+Buy me a coffee: https://buymeacoffee.com/williamspe8
 
 ## Contact
 
