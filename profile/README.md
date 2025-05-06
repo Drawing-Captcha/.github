@@ -1,7 +1,7 @@
 <h1 id="title">Welcome to Drawing-Captcha 🛡️</h1>
 
 <p align="center">
-<img src="https://wpesicdev.github.io/Drawing-Captcha-Demo-Alpha/assets/shots%20(2).png" alt="project-image">
+<img src="https://github.com/user-attachments/assets/cc1ef188-2cd6-4d73-94fe-8ac191a52926" alt="project-screenshot" width="100%">
 </p>
 
 ## Description
